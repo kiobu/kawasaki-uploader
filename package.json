@@ -1,0 +1,19 @@
+{
+  "name": "kawasaki-uploader",
+  "version": "1.0.0",
+  "description": "A Node based uploader to ftp.kawasaki.kiobu.dev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiobu/kawasaki-uploader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiobu/kawasaki-uploader/issues"
+  },
+  "homepage": "https://github.com/kiobu/kawasaki-uploader#readme"
+}
